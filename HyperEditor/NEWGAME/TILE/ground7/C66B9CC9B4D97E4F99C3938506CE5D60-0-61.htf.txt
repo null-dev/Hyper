@@ -1,0 +1,9 @@
+[Hyper Tile File]
+C66B9CC9B4D97E4F99C3938506CE5D60-61.bmp
+0
+false
+true
+false
+nil
+nil
+1 1 1

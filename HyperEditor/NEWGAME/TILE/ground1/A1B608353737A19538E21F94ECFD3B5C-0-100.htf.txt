@@ -1,0 +1,9 @@
+[Hyper Tile File]
+A1B608353737A19538E21F94ECFD3B5C-100.bmp
+0
+false
+true
+false
+nil
+nil
+0 0.501961 0.501961

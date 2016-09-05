@@ -1,0 +1,9 @@
+[Hyper Tile File]
+%FILENAME%
+0
+false
+true
+false
+nil
+nil
+0

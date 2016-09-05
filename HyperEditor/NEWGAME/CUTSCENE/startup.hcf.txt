@@ -1,0 +1,5 @@
+[Hyper Cutscene File]
+% Startup watermark
+FADEIN hyper.jpg 0 0 2000
+WAIT nil 0 0 3000
+FADEOUT nil 0 0 2000

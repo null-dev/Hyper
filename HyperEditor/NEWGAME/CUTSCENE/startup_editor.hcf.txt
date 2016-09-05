@@ -1,0 +1,5 @@
+[Hyper Cutscene File]
+% Really just a faster version of startup.hcf.txt
+FADEIN hyper.jpg 0 0 1000
+WAIT nil 0 0 1500
+FADEOUT nil 0 0 1000
